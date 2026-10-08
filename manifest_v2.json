@@ -3,7 +3,7 @@
     "id": "979812217215",
     "restype": "watchface",
     "name": "DOT MATRIX",
-    "description": "DOT MATRIX_点状数字波纹表盘_CMF_重制\nCMF系列的重置表盘, 添加了水波纹的特效, 简约设计\n欢迎在小红书关注我 @叫我Brin就好, 我会主要在astrobox平台更新资源",
+    "description": "DOT MATRIX_点状数字波纹表盘_CMF_重制\n整块屏幕铺满了小圆点, 大部分只是暗暗地待着, 亮起来的那些刚好拼出时间, 星期和日期小小地挂在上面; 抬手的时候, 会有一圈水波纹从点阵里荡开, 荡到边上就没了。CMF 点阵表盘的重制。\n支持小米手环 9 / 10 / 11\n由于 AstroBox 平台限制, 无法上传动态照片, 想看亮屏和 AOD 动画, 以及具体怎么使用的详细说明, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/04-预览-奶油白产品.png",
       "media/03-预览-点阵海报.png",
